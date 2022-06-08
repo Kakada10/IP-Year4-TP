@@ -1,3 +1,0 @@
-Git repo url : https://github.com/Kakada19/IP-Year4-TP.git
-Branch : TP11
-Folder : TP11
